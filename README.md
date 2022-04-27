@@ -1,4 +1,4 @@
-# CITS1001_Project1_2020Sem1
+# Project1_2020Sem1
 
 PROJECT TITLE: Election Program    	
 
